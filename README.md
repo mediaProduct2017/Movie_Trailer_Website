@@ -2,7 +2,7 @@
 This project is used to produce a website for a list of movie trailers.
 
 ## Getting started
-You need to install [python](https://www.python.org/) first to run this project. To get started, clone the Movie_Trailer_Website repository to work on this project locally on your computer.
+You need to install [python](https://www.python.org/) first to run this project. To get started, clone the Movie_Trailer_Website repository to run the application locally on your computer.
 
     $ git clone https://github.com/mediaProduct2017/Movie_Trailer_Website.git
 
